@@ -54,7 +54,6 @@ header{
     width: calc((100% / 5));
 }
 .section1{
-    background-color: white;
     height: 300px;
     background-color: var(--section-bg1);
 }
@@ -63,3 +62,17 @@ header{
     height: 200px;
     background-color: var(--section1-block1);    
 }
+.section2{
+    height: 200px;
+    background-color: white;
+    border: 1px solid black;
+}
+.blue-block{
+    width: 70%;
+    height: 150px;
+    background-color: var(--section-block1);    
+}
+.pink-block{
+    width: 30%;
+    height: 150px;
+    background-color: var(--section-block2);
