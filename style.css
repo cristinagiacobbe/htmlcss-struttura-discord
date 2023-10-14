@@ -3,3 +3,18 @@
     padding: 0;
     box-sizing: border-box;
 }
+:root
+{
+--header-block: #daa520;
+--header-bg:#add8e6;
+--section-bg1:#00008b;
+--dark-bg:#23272a;
+--section1-block1:#ee82ee;
+--section-block1:#1e90ff;
+--section-block2:#ffc0cb;
+--section-block3:#228b22;
+--section-block4:#f08080;
+--section-block5:#20b2aa;
+--footer-blck:#7fffd4;
+--footer-bt:#fab2bc;
+}
