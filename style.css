@@ -27,7 +27,7 @@
     margin: auto;
 }
 .d-flex{
-    display: flex;
+    display: flex;    
 }
 .debug .db{
     border: 1px dashed black;
@@ -128,7 +128,7 @@ footer{
 }
 .debug .footer-bar{
     background-color: var(--footer-bar);
-    height: 50px;    
+    height: 30px;    
 }
 .footer-bar{
     width: 100%;
